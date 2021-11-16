@@ -1,6 +1,6 @@
 1.Hi this is a quick setup guide for the required enviorment.
 2.In your command line, Type pip install opencv-python to install OpenCv. 
 3. In your command line, Type pip install face-recognition to intall face recognition library.
-4. In the 9th line of the code, Insert the folder name from which you want to import your images for comparing
-and also if the python file and images folder are not in the same folder,specifythe full location of the images folder For eg. "C:\Users\anish\Documents\GitHub"
+4. In the 9th line of the code, Insert the folder name from which you want to import your images for comparingand also if the python file and images folder are not in the same folder,specifythe full location of the images folder For eg. "C:\Users\anish\Documents\GitHub"
+5. For line no. 30 make a csv file to store the desired attendance as a excel sheet
 Thats it and you are good to go!!
